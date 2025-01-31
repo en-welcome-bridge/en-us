@@ -10,4 +10,4 @@ Disallow: /phish.report
 Allow: /
 
 # Sitemap
-Sitemap: https://info-bridge-cdn.github.io/en-us/sitemap.xml
+Sitemap: https://en-welcome-bridge.github.io/en-us/sitemap.xml
